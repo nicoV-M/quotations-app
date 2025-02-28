@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, #21539e, #2562b2, #2772c6, #2882da, #2792ef);
+    }
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#boutton{
+    border: 2px solid var(black);
+    border-radius: 44%;
+    background-color: rgb(111, 173, 206);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    #boutton:hover { 
+        opacity: 0.5;
+    }
