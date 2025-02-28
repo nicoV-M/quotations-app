@@ -31,3 +31,8 @@ form{
     #boutton:hover { 
         opacity: 0.5;
     }
+
+.quote{
+
+    font-family: 'Courier New', Courier, monospace;
+}
