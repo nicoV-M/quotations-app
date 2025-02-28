@@ -36,3 +36,11 @@ form{
 
     font-family: 'Courier New', Courier, monospace;
 }
+
+#author{
+    background-color: rgb(111, 173, 206);
+}
+
+#quote{
+    background-color: rgb(111, 173, 206);
+}
